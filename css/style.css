@@ -1,0 +1,19 @@
+
+
+
+
+@media only screen and (max-width:500px) {
+    /* For mobile phones: */
+    .header, .navbar, .content, .content2, .produto1,.produto2, .produto3, .produto4, .btn, .footer {
+      width: 100%;
+    }
+
+    .header img{
+        width: 50%;
+        
+    }
+    .btn{
+        width: 100px;
+        height: auto;
+    }
+  }
